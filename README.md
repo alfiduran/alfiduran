@@ -1,3 +1,5 @@
+[![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/bc7t.svg)](https://betteruptime.com/?utm_source=status_badge)
+
 ### Hi there 👋
 How now?
 
