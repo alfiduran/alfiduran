@@ -1,12 +1,12 @@
 [![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/bc7t.svg)](https://betteruptime.com/?utm_source=status_badge)
 
 ### Hi there 👋
-Welcome to my Project space! Looking forward to learn and share knowledge from everyone!
+Welcome to my Project space! Looking forward to learning and sharing knowledge with everyone!
 
 - 🔭 I’m currently working as a Cloud and DevOps Engineer at Ohmyhome Pte Ltd.
 - 🌱 I’m currently learning Amazon Web Services to take my Solutions Architect Associate certification.
-- 👯 I’m looking to collaborate on automation / CICD.
-- 🤔 I’m looking for help with Security and Hardening!
+- 👯 I’m looking to collaborate on automation / CICD processes.
+- 🤔 I’m looking for help with Security Hardening, DevSecOps and Python.
 - 💬 Ask me about public speaking and confidence!
 - 📫 How to reach me: emceealfi@gmail.com
 - 😄 Pronouns: He/Him
