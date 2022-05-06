@@ -3,14 +3,15 @@
 ### Hi there 👋
 Welcome to my Project space! Looking forward to learn and share knowledge from everyone!
 
-- 🔭 I’m currently working at Ohmyhome Pte Ltd.
-- 🌱 I’m currently learning Amazon Web Services.
+- 🔭 I’m currently working as a Cloud and DevOps Engineer at Ohmyhome Pte Ltd.
+- 🌱 I’m currently learning Amazon Web Services to take my Solutions Architect Associate certification.
 - 👯 I’m looking to collaborate on automation / CICD.
 - 🤔 I’m looking for help with Security and Hardening!
-- 💬 Ask me about public speaking!
+- 💬 Ask me about public speaking and confidence!
 - 📫 How to reach me: emceealfi@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: My name is in the Guinness World Record!
+- ⚡ Fun fact: Guinness World Record holder!
+- 
 <!--
 **alfiduran/alfiduran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
