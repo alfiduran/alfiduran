@@ -3,7 +3,7 @@
 ### Hi there 👋
 Welcome to my Project space! Looking forward to learning and sharing knowledge with everyone!
 
-- 🔭 I’m currently working as a Cloud and DevOps Engineer at Ohmyhome!
+- 🔭 I’m currently working as a Cloud and DevOps Engineer at BMW Group! 
 - 🌱 I’m currently taking AWS Solutions Architect Associate certification (SAA-C02).
 - 👯 I’m looking to collaborate on automation / CICD processes.
 - 🤔 I’m looking for help with Security Hardening, DevSecOps and Python.
